@@ -1,5 +1,0 @@
-{
-	"name": "@ano/fast-query-selectors",
-  "version": "0.1.5",
-  "exports": "./mod.ts"
-}
